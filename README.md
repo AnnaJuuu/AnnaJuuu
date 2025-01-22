@@ -19,7 +19,7 @@
   <img
     src="https://render.gitanimals.org/lines/AnnaJuuu?pet-id=669796584790489643"
     width="600"
-    height="300"
+    height="200"
   />
 </a>
   
