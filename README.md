@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=ff9e9b&height=300&section=header&text=Anna's%20Github&fontSize=90&fontColor=ffe4e1&animation=twinkling" alt="header" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnnaJuuu&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&icon_color=ff9e9b&title_color=ff9e9b&text_color=a6697d" alt="Anna's GitHub stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaJuuu&hide_border=true&title_color=ff9e9b&text_color=a6697d" alt="Top Langs" />
+</p>
 
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaJuuu&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/AnnaJuuu/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaJuuu&hide_border=true)
 
 <!-- tools
   <img src="https://github.com/user-attachments/assets/ed623308-03ba-469f-bc39-7bf7e314debc">
