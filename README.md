@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=ff9e9b&height=300&section=header&text=Anna's%20Github&fontSize=90&fontColor=ffe4e1&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=ff9e9b&height=250&section=header&text=Anna's%20Github&fontSize=90&fontColor=ffe4e1&animation=twinkling" alt="header" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnnaJuuu&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&icon_color=ff9e9b&title_color=ff9e9b&text_color=a6697d" alt="Anna's GitHub stats" /> 
