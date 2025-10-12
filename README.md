@@ -3,7 +3,8 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnnaJuuu&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&icon_color=ff9e9b&title_color=ff9e9b&text_color=a6697d" alt="Anna's GitHub stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaJuuu&hide_border=true&title_color=ff9e9b&text_color=a6697d" alt="Top Langs" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaJuuu&hide_border=true&layout=compact&title_color=ff9e9b&text_color=a6697d" alt="Top Langs" />
+
 </p>
 
 
